@@ -1,5 +1,4 @@
 import { useEffect, useRef } from 'react';
-import { clearInterval } from 'timers';
 
 export function useInterval<C extends CallableFunction>(
   callback: C,
