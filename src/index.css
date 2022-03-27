@@ -64,5 +64,10 @@ body {
 }
 
 .pomodoro .details {
-  margin: 20px 0;
+  margin: 20px;
+}
+
+.pomodoro .details p{
+  width: 200px;
+  margin: auto;
 }
